@@ -20,16 +20,13 @@
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Sophia!
 
-### 🙋‍♀️About Me:
 I am a Software Engineer based in Riverside, CA 📍
 
 
-- 🔭 I’m currently working on <a href="https://github.com/sophiatsau/Crittr">Crittr</a>
-<!-- - 🌱 I’m currently learning ...
-- 💬 Ask me about ... -->
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/sophia-t-5a51637a/">My Linkedin</a> | <a href="https://sophiatsau.github.io/">My Portfolio</a>
-- 😄 Pronouns: she/they
-<!-- - ⚡ Fun fact: ... -->
+- I’m currently working on <a href="https://github.com/sophiatsau/Crittr">Crittr</a>
+
+### Let's get in touch!
+<a target="_blank" href="https://www.linkedin.com/in/sophia-t-5a51637a/">My Linkedin</a> | <a target="_blank" href="https://sophiatsau.github.io/">My Portfolio</a> | <a target="_blank" href="mailto:sophia.tsau@gmail.com">sophia.tsau@gmail.com</a>
 
 ### 📊 Stats:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sophiatsau&" alt="streak"/>
