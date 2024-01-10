@@ -14,7 +14,7 @@ After some self-learning on the internet, I decided to join App Academy, a compe
  
    - I would like to learn more about createObjectURL and refine the way that I am using it
    - I would like to implement Google Maps API so that shops can be sorted by physical proximity to the user
-   - I would like to build full CRUD functions for the "critter" feature
+   - I would like to implement Orders so that users can buy critters
 
 ### 🤝 Let's get in touch! 
 <a href="https://www.linkedin.com/in/sophia-t-5a51637a/">My Linkedin</a> | <a href="https://sophiatsau.github.io/">My Portfolio</a> | <a href="mailto:sophia.tsau@gmail.com">sophia.tsau@gmail.com</a>
