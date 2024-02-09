@@ -10,11 +10,11 @@ After some self-learning on the internet, I decided to join App Academy, a compe
 
 ### 🚀 My Current Goals: <br/>
 
- - I am currently working on <a href="https://crittr.onrender.com/">CRITTR</a>, a GrubHub-inspired web application where users can view and create shops (that sell animals).
+ - I am currently working on <a href="https://infestation.onrender.com/">Infestation</a>, a Meetup-inspired web application where users can view and create shops (that sell animals).
  
-   - I would like to learn more about createObjectURL and refine the way that I am using it
-   - I would like to implement Google Maps API so that shops can be sorted by physical proximity to the user
-   - I would like to implement Orders so that users can buy critters
+   - I would like to implement a Venues feature for groups to be located at
+   - I would like to implement a Membership feature so that users can become part of groups
+   - I would like to implement a Attendance feature to keep track of who is going to what event
 
 ### 🤝 Let's get in touch! 
 <a href="https://www.linkedin.com/in/sophia-t-5a51637a/">My Linkedin</a> | <a href="https://sophiatsau.github.io/">My Portfolio</a> | <a href="mailto:sophia.tsau@gmail.com">sophia.tsau@gmail.com</a>
