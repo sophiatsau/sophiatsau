@@ -11,9 +11,9 @@ After some self-learning on the internet, I decided to join App Academy, a compe
 ### 🚀 My Current Goals: <br/>
 
  - I am currently working on <a href="https://infestation.onrender.com/">Infestation</a>, a Meetup-inspired web application where users can view and create shops (that sell animals).
- 
+
+   - I would like to implement OAuth for easy and secure user account creation
    - I would like to implement a Venues feature for groups to be located at
-   - I would like to implement a Membership feature so that users can become part of groups
    - I would like to implement a Attendance feature to keep track of who is going to what event
 
 ### 🤝 Let's get in touch! 
